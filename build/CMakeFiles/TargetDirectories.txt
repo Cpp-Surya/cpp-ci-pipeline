@@ -1,0 +1,5 @@
+/Users/suryasaladi/ci_fundamentals/build/CMakeFiles/hello_ci.dir
+/Users/suryasaladi/ci_fundamentals/build/CMakeFiles/runTests.dir
+/Users/suryasaladi/ci_fundamentals/build/CMakeFiles/test.dir
+/Users/suryasaladi/ci_fundamentals/build/CMakeFiles/edit_cache.dir
+/Users/suryasaladi/ci_fundamentals/build/CMakeFiles/rebuild_cache.dir
