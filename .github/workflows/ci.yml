@@ -15,7 +15,7 @@ jobs:
 
       - name: Configure and Build
         run: |
-	  rm -rf build
+          rm -rf build
           mkdir build && cd build
           cmake ..
           make
@@ -24,4 +24,3 @@ jobs:
         run: |
           cd build
           ctest --output-on-failure
-
