@@ -1,0 +1,9 @@
+.github/workflows/ci.yml
+build/
+*.o
+*.obj
+*.exe
+*.out
+.vscode/
+.idea/
+.DS_Store
